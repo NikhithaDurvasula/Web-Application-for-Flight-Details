@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.pdx.cs410J.nd6.Project4IT
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.017 sec - in edu.pdx.cs410J.nd6.Project4IT

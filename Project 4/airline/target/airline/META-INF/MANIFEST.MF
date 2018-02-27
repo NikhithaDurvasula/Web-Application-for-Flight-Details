@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-From-Revision: noScmFound
+Implementation-Title: Airline Web/REST Project
+Implementation-Version: Summer2017
+Archiver-Version: Plexus Archiver
+Built-By: nikhithadurvasula
+Built-From-Branch: UNKNOWN_BRANCH
+Implementation-Vendor-Id: edu.pdx.cs410J.nd6
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_112
+Built-On:  2017-08-04T12:52:42.728-0700
+Implementation-Vendor: Portland State University
+
